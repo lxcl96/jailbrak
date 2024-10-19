@@ -1,0 +1,10 @@
+Package: com.apple.infuse
+Name: Infuse Pro
+Version: 1.0-1
+Architecture: iphoneos-arm
+Description: infuse破解
+Filename: ./debs/infuse.deb
+Size: 204632
+MD5sum: d5994f474ebb2e13a406c52e0ef7dfbd
+SHA256: 42b8efb5d1203acb89c54750b7cc24bac4997896df4cae7c106b725735553e35
+Section: Tweaks
